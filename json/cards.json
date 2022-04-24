@@ -5,7 +5,7 @@
 		"name": "Mago",
 		"positive": "Disposição, Habilidade, Diplomacia, Autonomia",
 		"negative": "Mentira, Escalada social, Truques",
-		"img": "/img/cards/arcanos/1.webp"
+		"img": "img/cards/arcanos/1.webp"
 	},
 	{
 		"id": 2,
@@ -13,7 +13,7 @@
 		"name": "Alta sacerdotiza",
 		"positive": "Estudo, Intuição, Segredo, Fé, Mistério",
 		"negative": "Ignorância, Preconceito, Histeria",
-		"img": "/img/cards/arcanos/2.webp"
+		"img": "img/cards/arcanos/2.webp"
 	},
 	{
 		"id": 3,
@@ -21,7 +21,7 @@
 		"name": "Imperatriz",
 		"positive": "Fertilidade, Inteligência, Diálogo, Gravidez",
 		"negative": "Estupidez, Esterilidade, Frivolidade",
-		"img": "/img/cards/arcanos/3.webp"
+		"img": "img/cards/arcanos/3.webp"
 	},
 	{
 		"id": 4,
@@ -29,7 +29,7 @@
 		"name": "Imperador",
 		"positive": "Estabilidade, Poder, Autoridade, Proteção",
 		"negative": "Arrogância, Tirania, Oposição",
-		"img": "/img/cards/arcanos/4.webp"
+		"img": "img/cards/arcanos/4.webp"
 	},
 	{
 		"id": 5,
@@ -37,7 +37,7 @@
 		"name": "Hierofante",
 		"positive": "Inspiração, Caridade, Alívio, Paciência, Tradição",
 		"negative": "Rancor, Intolerância, Imoralidade",
-		"img": "/img/cards/arcanos/5.webp"
+		"img": "img/cards/arcanos/5.webp"
 	},
 	{
 		"id": 6,
@@ -45,7 +45,7 @@
 		"name": "Enamorados",
 		"positive": "Escolha, Tentativa, Exame, Contrato, União",
 		"negative": "Infidelidade, Separação, Indecisão",
-		"img": "/img/cards/arcanos/6.webp"
+		"img": "img/cards/arcanos/6.webp"
 	},
 	{
 		"id": 7,
@@ -53,7 +53,7 @@
 		"name": "Carro",
 		"positive": "Vitória, Habilidades gerenciais, Evolução, Recompensa",
 		"negative": "Derrota, Inabilidade, Erro",
-		"img": "/img/cards/arcanos/7.webp"
+		"img": "img/cards/arcanos/7.webp"
 	},
 	{
 		"id": 8,
@@ -61,7 +61,7 @@
 		"name": "Justiça",
 		"positive": "Sensatez, Lei, Concódria, Lógica, Hierarquia",
 		"negative": "Injustiça, Problemas legais",
-		"img": "/img/cards/arcanos/8.webp"
+		"img": "img/cards/arcanos/8.webp"
 	},
 	{
 		"id": 9,
@@ -69,7 +69,7 @@
 		"name": "Eremita",
 		"positive": "Prudência, Meditação, Solitude, Silêncio",
 		"negative": "Autocomiseração, Inveja, Atraso",
-		"img": "/img/cards/arcanos/9.webp"
+		"img": "img/cards/arcanos/9.webp"
 	},
 	{
 		"id": 10,
@@ -77,7 +77,7 @@
 		"name": "Roda",
 		"positive": "Alternação, Ciclos naturais, Mudança, Oportunidade",
 		"negative": "Instabilidade, Benefícios perdidos",
-		"img": "/img/cards/arcanos/10.webp"
+		"img": "img/cards/arcanos/10.webp"
 	},
 	{
 		"id": 11,
@@ -85,7 +85,7 @@
 		"name": "Força",
 		"positive": "Energia, Empenho, Força moral, Coragem",
 		"negative": "Preguiça, Impulsividade, Fraqueza",
-		"img": "/img/cards/arcanos/11.webp"
+		"img": "img/cards/arcanos/11.webp"
 	},
 	{
 		"id": 12,
@@ -93,7 +93,7 @@
 		"name": "Enforcado",
 		"positive": "Sacrifício, Idealismo, Altruísmo, Êxtase místico",
 		"negative": "Impotência, Doença, Punição",
-		"img": "/img/cards/arcanos/12.webp"
+		"img": "img/cards/arcanos/12.webp"
 	},
 	{
 		"id": 13,
@@ -101,7 +101,7 @@
 		"name": "Morte",
 		"positive": "Fim, Mudança súbita e radical, Iniciação",
 		"negative": "Impedimento grave, Adversidade",
-		"img": "/img/cards/arcanos/13.webp"
+		"img": "img/cards/arcanos/13.webp"
 	},
 	{
 		"id": 14,
@@ -109,7 +109,7 @@
 		"name": "Temperança",
 		"positive": "Moderação, Adaptabilidade, Descanso saudável, Cuidado",
 		"negative": "Ansiedade, Indisposição",
-		"img": "/img/cards/arcanos/14.webp"
+		"img": "img/cards/arcanos/14.webp"
 	},
 	{
 		"id": 15,
@@ -117,7 +117,7 @@
 		"name": "Diabo",
 		"positive": "Instintividade, Charme, Sensualidade, Sugestão",
 		"negative": "Perversão, Agitação, Ódio",
-		"img": "/img/cards/arcanos/15.webp"
+		"img": "img/cards/arcanos/15.webp"
 	},
 	{
 		"id": 16,
@@ -125,7 +125,7 @@
 		"name": "Torre",
 		"positive": "Fuga, Partida apressada, Exílio, Certezas desfeitas, Perigo",
 		"negative": "Acidente, Ruína, Caos",
-		"img": "/img/cards/arcanos/16.webp"
+		"img": "img/cards/arcanos/16.webp"
 	},
 	{
 		"id": 17,
@@ -133,7 +133,7 @@
 		"name": "Estrela",
 		"positive": "Esperança, Sinais positivos, Novas idéias, Paz",
 		"negative": "Maus sinais, Resignação",
-		"img": "/img/cards/arcanos/17.webp"
+		"img": "img/cards/arcanos/17.webp"
 	},
 	{
 		"id": 18,
@@ -141,7 +141,7 @@
 		"name": "Lua",
 		"positive": "Sonhos, Visões, Aventuras, Estranhos encontros, Viagem",
 		"negative": "Perigo, Mal, Mentiras",
-		"img": "/img/cards/arcanos/18.webp"
+		"img": "img/cards/arcanos/18.webp"
 	},
 	{
 		"id": 19,
@@ -149,7 +149,7 @@
 		"name": "Sol",
 		"positive": "Concórdia, Amizade, Amor, Honra, Alegria",
 		"negative": "Infelicidade, Egoísmo, Irritabilidade",
-		"img": "/img/cards/arcanos/19.webp"
+		"img": "img/cards/arcanos/19.webp"
 	},
 	{
 		"id": 20,
@@ -157,7 +157,7 @@
 		"name": "Julgamento",
 		"positive": "Renovação, Nascimento, Despertar, Recuperação",
 		"negative": "Dúvida, Arrependimento, Doença",
-		"img": "/img/cards/arcanos/20.webp"
+		"img": "img/cards/arcanos/20.webp"
 	},
 	{
 		"id": 21,
@@ -165,7 +165,7 @@
 		"name": "Mundo",
 		"positive": "Recompensa, Perfeição, Suceso, Herança, Tempo",
 		"negative": "Atrasos, Ilusões, Fracasso",
-		"img": "/img/cards/arcanos/21.webp"
+		"img": "img/cards/arcanos/21.webp"
 	},
 	{
 		"id": 22,
@@ -173,398 +173,398 @@
 		"name": "Louco",
 		"positive": "Estranheza, Bom coração, Infantiliadde, Férias",
 		"negative": "Negligência, Loucura, Drogas",
-		"img": "/img/cards/arcanos/22.webp"
+		"img": "img/cards/arcanos/22.webp"
 	},
 	{
 		"id": 23,
 		"value": 1,
 		"name": "Ás",
 		"description": "Nascimento. Ponto de partida. Começo de uma atividade ou empreendimento. Maternidade.",
-		"img": "/img/cards/clubs/1.webp"
+		"img": "img/cards/clubs/1.webp"
 	},
 	{
 		"id": 24,
 		"value": 2,
 		"name": "Descanso",
 		"description": "Momento de cansaço. Aborrecimento. Prostração psicológica. Depressão.",
-		"img": "/img/cards/clubs/2.webp"
+		"img": "img/cards/clubs/2.webp"
 	},
 	{
 		"id": 25,
 		"value": 3,
 		"name": "Emboscada",
 		"description": "Conspiração. Perigo oculto. Inimigo tramando, sem ser visto.",
-		"img": "/img/cards/clubs/3.webp"
+		"img": "img/cards/clubs/3.webp"
 	},
 	{
 		"id": 26,
 		"value": 4,
 		"name": "Devoção",
 		"description": "Amor e cuidado. Fragilidade. Disponibilidade. Preocupação excessiva.",
-		"img": "/img/cards/clubs/4.webp"
+		"img": "img/cards/clubs/4.webp"
 	},
 	{
 		"id": 27,
 		"value": 5,
 		"name": "Medo",
 		"description": "Medo justificado. Fraqueza. Submissão a alguém.",
-		"img": "/img/cards/clubs/5.webp"
+		"img": "img/cards/clubs/5.webp"
 	},
 	{
 		"id": 28,
 		"value": 6,
 		"name": "Modos dominadores",
 		"description": "Tiranizar. Ato de força. Desprezo ou abuso dos mais fracos.",
-		"img": "/img/cards/clubs/6.webp"
+		"img": "img/cards/clubs/6.webp"
 	},
 	{
 		"id": 29,
 		"value": 7,
 		"name": "Conflito",
 		"description": "Contraste vivido. Guerra aberta. Bater de frente com adversários de igual força.",
-		"img": "/img/cards/clubs/7.webp"
+		"img": "img/cards/clubs/7.webp"
 	},
 	{
 		"id": 30,
 		"value": 8,
 		"name": "Visão de longe",
 		"description": "Objetivo distante, porém, alcançável. Desejo de melhorar.",
-		"img": "/img/cards/clubs/8.webp"
+		"img": "img/cards/clubs/8.webp"
 	},
 	{
 		"id": 31,
 		"value": 9,
 		"name": "Defesa",
 		"description": "Momento crítico. Necessidade de proteção, de apoio ou de refúgio.",
-		"img": "/img/cards/clubs/9.webp"
+		"img": "img/cards/clubs/9.webp"
 	},
 	{
 		"id": 32,
 		"value": 10,
 		"name": "Perda",
 		"description": "Confissão. Falta de metas ou ideais. Isolamento.",
-		"img": "/img/cards/clubs/10.webp"
+		"img": "img/cards/clubs/10.webp"
 	},
 	{
 		"id": 33,
 		"value": 11,
 		"name": "Pajem",
 		"description": "Aprendiz. Estudante. Jovem que sugere novas idéias ou soluções.",
-		"img": "/img/cards/clubs/11.webp"
+		"img": "img/cards/clubs/11.webp"
 	},
 	{
 		"id": 34,
 		"value": 12,
 		"name": "Cavaleiro",
 		"description": "Aventureiro. Pessoa ambígua, traiçoeira, sem escrúpulos. Mercenário.",
-		"img": "/img/cards/clubs/12.webp"
+		"img": "img/cards/clubs/12.webp"
 	},
 	{
 		"id": 35,
 		"value": 13,
 		"name": "Rainha",
 		"description": "Mediadora. Especialista em relações públicas. Oferece ajuda por interesses pessoais.",
-		"img": "/img/cards/clubs/13.webp"
+		"img": "img/cards/clubs/13.webp"
 	},
 	{
 		"id": 36,
 		"value": 14,
 		"name": "Rei",
 		"description": "Empreendedor. Homem maduro, honesto e consciencioso. Autoritário, mas de bom coração.",
-		"img": "/img/cards/clubs/14.webp"
+		"img": "img/cards/clubs/14.webp"
 	},
 	{
 		"id": 37,
 		"value": 1,
 		"name": "Sucesso",
 		"description": "Abundância de bens. Meta alcançada. Grande alegria.",
-		"img": "/img/cards/diamonds/1.webp"
+		"img": "img/cards/diamonds/1.webp"
 	},
 	{
 		"id": 38,
 		"value": 2,
 		"name": "Ambiguidade",
 		"description": "Amizade egoísta. Falsa solidariedade. Oportunismo.",
-		"img": "/img/cards/diamonds/2.webp"
+		"img": "img/cards/diamonds/2.webp"
 	},
 	{
 		"id": 39,
 		"value": 3,
 		"name": "Cooperação",
 		"description": "Compromisso múltuo. Colaboração. Unidade de idéias e de ações.",
-		"img": "/img/cards/diamonds/3.webp"
+		"img": "img/cards/diamonds/3.webp"
 	},
 	{
 		"id": 40,
 		"value":  4,
 		"name": "Avareza",
 		"description": "Amor excessivo por dinheiro. Mesquinharia. Falta de sentimenos.",
-		"img": "/img/cards/diamonds/4.webp"
+		"img": "img/cards/diamonds/4.webp"
 	},
 	{
 		"id": 41,
 		"value": 5,
 		"name": "Pobreza",
 		"description": "Dificuldades econômicas. Empreendimento fracassado. Meta não alcançada.",
-		"img": "/img/cards/diamonds/5.webp"
+		"img": "img/cards/diamonds/5.webp"
 	},
 	{
 		"id": 42,
 		"value": 6,
 		"name": "Caridade",
 		"description": "Oferta ou pedido de ajuda material ou espiritual.",
-		"img": "/img/cards/diamonds/6.webp"
+		"img": "img/cards/diamonds/6.webp"
 	},
 	{
 		"id": 43,
 		"value": 7,
 		"name": "Perda",
 		"description": "Improdutividade. Esforço inútil. Desperdício de tempo ou de dinheiro.",
-		"img": "/img/cards/diamonds/7.webp"
+		"img": "img/cards/diamonds/7.webp"
 	},
 	{
 		"id": 44,
 		"value": 8,
 		"name": "Credulidade",
 		"description": "Atitude cabeça-fria. Confiança excessiva em si mesmo ou nos outros.",
-		"img": "/img/cards/diamonds/8.webp"
+		"img": "img/cards/diamonds/8.webp"
 	},
 	{
 		"id": 45,
 		"value": 9,
 		"name": "Ensinamento",
 		"description": "Transmissão de valores morais e intelectuais. Percepção.",
-		"img": "/img/cards/diamonds/9.webp"
+		"img": "img/cards/diamonds/9.webp"
 	},
 	{
 		"id": 46,
 		"value": 10,
 		"name": "Segurança",
 		"description": "Base sóida. Estabilidade econômica. Família unida.",
-		"img": "/img/cards/diamonds/10.webp"
+		"img": "img/cards/diamonds/10.webp"
 	},
 	{
 		"id": 47,
 		"value": 11,
 		"name": "Pajem",
 		"description": "Pesquisador. Amante de mistérios. Investigador. Pessoa indiscreta. Espião.",
-		"img": "/img/cards/diamonds/11.webp"
+		"img": "img/cards/diamonds/11.webp"
 	},
 	{
 		"id": 48,
 		"value": 12,
 		"name": "Cavaleiro",
 		"description": "Consultor. Agente de negócios ou especialista imobiliário. Agente de seguros.",
-		"img": "/img/cards/diamonds/12.webp"
+		"img": "img/cards/diamonds/12.webp"
 	},
 	{
 		"id": 49,
 		"value": 13,
 		"name": "Rainha",
 		"description": "Herdeira. Mulher orgulhosa. Aristocrata. Casamento por conveniência.",
-		"img": "/img/cards/diamonds/13.webp"
+		"img": "img/cards/diamonds/13.webp"
 	},
 	{
 		"id": 50,
 		"value": 14,
 		"name": "Rei",
 		"description": "Homem de negócios astuto. Negociante astuto, mesquinho ou generoso, dependendo da situação.",
-		"img": "/img/cards/diamonds/14.webp"
+		"img": "img/cards/diamonds/14.webp"
 	},
 	{
 		"id": 51,
 		"value": 1,
 		"name": "Crescimento",
 		"description": "Fertilidade. Bem-estar. Nutrição do corpo e do espírito.",
-		"img": "/img/cards/hearts/1.webp"
+		"img": "img/cards/hearts/1.webp"
 	},
 	{
 		"id": 52,
 		"value": 2,
 		"name": "Paixão",
 		"description": "Conquista amorosa. Charme sexual. Licenciosidade.",
-		"img": "/img/cards/hearts/2.webp"
+		"img": "img/cards/hearts/2.webp"
 	},
 	{
 		"id": 53,
 		"value": 3,
 		"name": "Oração",
 		"description": "Religiosidade. Agradecimento. Pedido humilde e implorante.",
-		"img": "/img/cards/hearts/3.webp"
+		"img": "img/cards/hearts/3.webp"
 	},
 	{
 		"id": 54,
 		"value": 4,
 		"name": "Abstinência",
 		"description": "Desistir de prazer por motivo de saúde, bem como religioso e moral.",
-		"img": "/img/cards/hearts/4.webp"
+		"img": "img/cards/hearts/4.webp"
 	},
 	{
 		"id": 55,
 		"value": 5,
 		"name": "Meditação",
 		"description": "Análise. Observação cautelosa. Busca pela \"verdade nua\".",
-		"img": "/img/cards/hearts/5.webp"
+		"img": "img/cards/hearts/5.webp"
 	},
 	{
 		"id": 56,
 		"value": 6,
 		"name": "Jogo",
 		"description": "Passatempo, diversão inocente. Atitude infantil.",
-		"img": "/img/cards/hearts/6.webp"
+		"img": "img/cards/hearts/6.webp"
 	},
 	{
 		"id": 57,
 		"value": 7,
 		"name": "Revelação",
 		"description": "Visão sobrenatural. Alucinação. Confundir os sentidos.",
-		"img": "/img/cards/hearts/7.webp"
+		"img": "img/cards/hearts/7.webp"
 	},
 	{
 		"id": 58,
 		"value": 8,
 		"name": "Pausa",
 		"description": "Interrupção necessária, porém temporária. Esperar novos eventos.",
-		"img": "/img/cards/hearts/8.webp"
+		"img": "img/cards/hearts/8.webp"
 	},
 	{
 		"id": 59,
 		"value": 9,
 		"name": "Conselho",
 		"description": "Voz da experiência. Sugestão paternal ou amigável.",
-		"img": "/img/cards/hearts/9.webp"
+		"img": "img/cards/hearts/9.webp"
 	},
 	{
 		"id": 60,
 		"value": 10,
 		"name": "Recuperação",
 		"description": "Fim de uma doença. Superar problemas ou conflitos.",
-		"img": "/img/cards/hearts/10.webp"
+		"img": "img/cards/hearts/10.webp"
 	},
 	{
 		"id": 61,
 		"value": 11,
 		"name": "Pajem",
 		"description": "Confidente. Amigo antigo. Pessoa honesta e sincera.",
-		"img": "/img/cards/hearts/11.webp"
+		"img": "img/cards/hearts/11.webp"
 	},
 	{
 		"id": 62,
 		"value": 12,
 		"name": "Cavaleiro",
 		"description": "Pregador. Divulgador de idéias políticas, religiosas ou humanitárias.",
-		"img": "/img/cards/hearts/12.webp"
+		"img": "img/cards/hearts/12.webp"
 	},
 	{
 		"id": 63,
 		"value": 13,
 		"name": "Rainha",
 		"description": "Amante. Mãe. Amiga do coração. Mulher sábia e sensível.",
-		"img": "/img/cards/hearts/13.webp"
+		"img": "img/cards/hearts/13.webp"
 	},
 	{
 		"id": 64,
 		"value": 14,
 		"name": "Rei",
 		"description": "Intelectual. Homem maduro que oferece ajuda decisiva e conclusiva.",
-		"img": "/img/cards/hearts/14.webp"
+		"img": "img/cards/hearts/14.webp"
 	},
 	{
 		"id": 65,
 		"value": 1,
 		"name": "Ás",
 		"description": "Energia. Dinamismo físico ou intelectual. Vitória após uma amarga luta.",
-		"img": "/img/cards/spades/1.webp"
+		"img": "img/cards/spades/1.webp"
 	},
 	{
 		"id": 66,
 		"value": 2,
 		"name": "Ódio",
 		"description": "Irreconciliabilidade. Conflito irremediável. Violência física, verbal ou psicológica.",
-		"img": "/img/cards/spades/2.webp"
+		"img": "img/cards/spades/2.webp"
 	},
 	{
 		"id": 67,
 		"value": 3,
 		"name": "Discussão",
 		"description": "Comparação de opiniões. Atitude crítica. Objeção resoluta.",
-		"img": "/img/cards/spades/3.webp"
+		"img": "img/cards/spades/3.webp"
 	},
 	{
 		"id": 68,
 		"value": 4,
 		"name": "Enigma",
 		"description": "Pergunta esperando resposta. Necessidade de uma visão maior.",
-		"img": "/img/cards/spades/4.webp"
+		"img": "img/cards/spades/4.webp"
 	},
 	{
 		"id": 69,
 		"value": 5,
 		"name": "Traição",
 		"description": "Abjuração de fé. Hipócrita. Amizade falsa. Fraude. Conspiração.",
-		"img": "/img/cards/spades/5.webp"
+		"img": "img/cards/spades/5.webp"
 	},
 	{
 		"id": 70,
 		"value": 6,
 		"name": "Risco",
 		"description": "Escolha perigosa, porém necessária. Sucesso incerto. Viagem ao desconhecido.",
-		"img": "/img/cards/spades/6.webp"
+		"img": "img/cards/spades/6.webp"
 	},
 	{
 		"id": 71,
 		"value": 7,
 		"name": "Aflição",
 		"description": "Angústia. Calamidade natural. Sofrimento provocado por outros. Tortura.",
-		"img": "/img/cards/spades/7.webp"
+		"img": "img/cards/spades/7.webp"
 	},
 	{
 		"id": 72,
 		"value": 8,
 		"name": "Punição",
 		"description": "Multa. Penaludade justa por um erro cometido. Redenção de culpa.",
-		"img": "/img/cards/spades/8.webp"
+		"img": "img/cards/spades/8.webp"
 	},
 	{
 		"id": 73,
 		"value": 9,
 		"name": "Confissão",
 		"description": "Admissão de culpa. Declaração de pensamentos ou de sentimentos.",
-		"img": "/img/cards/spades/9.webp"
+		"img": "img/cards/spades/9.webp"
 	},
 	{
 		"id": 74,
 		"value": 10,
 		"name": "Conquista",
 		"description": "Conquista difícil de um objetivo. Viagem a um país desconhecido.",
-		"img": "/img/cards/spades/10.webp"
+		"img": "img/cards/spades/10.webp"
 	},
 	{
 		"id": 75,
 		"value": 11,
 		"name": "Pajem",
 		"description": "Mensageiro. Jovem que traz boas ou más notícias inesperadas.",
-		"img": "/img/cards/spades/11.webp"
+		"img": "img/cards/spades/11.webp"
 	},
 	{
 		"id": 76,
 		"value": 12,
 		"name": "Cavaleiro",
 		"description": "Soldado. Colaborador diligente e honesto. Forte e prudente aliado.",
-		"img": "/img/cards/spades/12.webp"
+		"img": "img/cards/spades/12.webp"
 	},
 	{
 		"id": 77,
 		"value": 13,
 		"name": "Rainha",
 		"description": "Viúva. Jovem divorciada. Mulher que passou por momentos difíceis.",
-		"img": "/img/cards/spades/13.webp"
+		"img": "img/cards/spades/13.webp"
 	},
 	{
 		"id": 78,
 		"value": 14,
 		"name": "Rei",
 		"description": "Político. Diretor. Juíz. Diplomata. Pessoa bem instruída, mas enganadora.",
-		"img": "/img/cards/spades/14.webp"
+		"img": "img/cards/spades/14.webp"
 	}
 ]
