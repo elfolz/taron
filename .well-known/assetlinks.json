@@ -1,0 +1,15 @@
+[
+	{
+		"relation": [
+			"delegate_permission/common.handle_all_urls"
+		],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.app.ef3.taron",
+			"sha256_cert_fingerprints": [
+				"F2:13:6B:1C:5F:64:AD:FA:13:B1:95:66:A4:BD:CF:7E:90:5A:DF:3F:CF:CC:A1:E1:8B:A2:CB:6C:7D:75:AB:6A",
+				"11:54:33:AC:0A:8F:C0:8C:AA:11:AF:E0:58:97:48:98:85:75:38:A8:29:BB:FB:E6:DA:87:00:2A:07:DA:47:28"
+			]
+		}
+	}
+]

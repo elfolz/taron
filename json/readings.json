@@ -1,0 +1,44 @@
+[
+	{
+		"body": "Cabeça",
+		"description": "Representa o desejo, problema ou medo do consulente em relação ao tema de discussão.",
+		"arcano": "Esta carta, na cabeça, representa um desejo.",
+		"court": "Esta carta, na cabeça, representa uma pessoa de grande importância na pergunta apresentada.",
+		"numeric": "Esta carta, na cabeça, representa uma situação que já está ocorrendo, e que envolve o consulente há pouco tempo."
+	},
+	{
+		"body": "Mão direita",
+		"description": "Representa uma ação que poderia ajudar o sonculente a realizar o desejo, resolver o problema ou superar o medo.",
+		"arcano": "Esta carta, na mão direita, representa uma atitude que poderia ajudar na realização do desejo, a resolver um problema ou superar um medo.",
+		"court": "Esta carta, na mão direita, representa uma pessoa que pode ajudar o consulente.",
+		"numeric": "Esta carta, na mão direita, representa uma vontade do consulente."
+	},
+	{
+		"body": "Mão esquerda",
+		"description": "Representa coisas que poderiam impedir a ação.",
+		"arcano": "Esta carta, na mão esquerda, representa uma atitude contrária do consulente (veja os significados negativos da carta).",
+		"court": "Esta carta, na mão esquerda, representa uma pessoa contrária à realização do desejo, resolução do problema ou superação do medo.",
+		"numeric": "Esta carta, na mão esquerda, representa uma situação desfavorável. Se o significado da carta for positivo, é para o benefício dos outros."
+	},
+	{
+		"body": "Pé direito",
+		"description": "Representa uma possível evolução positiva da ação.",
+		"arcano": "Esta carta, no pé direito, representa uma possível evolução.",
+		"court": "Esta carta, no pé direito, representa um importante encontro positivo que ocorrerá após a ação executada.",
+		"numeric": "Esta carta, no pé direito, representa consequências da ação executada. Positivas para o consulente, mesmo que a carta seja negativa."
+	},
+	{
+		"body": "Pé esquerdo",
+		"description": "Representa disputas que podem surgir após a ação executada.",
+		"arcano": "Esta carta, no pé esquerdo, representa uma oposição que vem do consulente (veja os significados negativos da carta).",
+		"court": "Esta carta, no pé esquerdo, representa uma pessoa que se opõe ao consulente.",
+		"numeric": "Esta carta, no pé esquerdo, representa consequências negativas, ainda que a carta seja positiva."
+	},
+	{
+		"body": null,
+		"description": "Esta carta representa uma sugestão a respeito da pargunta inicialmente apresentada.",
+		"arcano": null,
+		"court": null,
+		"numeric": null
+	}
+]
